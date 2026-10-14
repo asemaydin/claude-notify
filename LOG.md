@@ -24,7 +24,7 @@
 - [ ] macOS ve Linux — bu makinede denenemedi
 - [ ] ntfy ve webhook kanalları — hiç denenmedi
 - [ ] `notification_type === 'idle_prompt'` alanının Claude Code'da gerçekten gelip gelmediği (yedek olarak mesaj metni de kontrol ediliyor)
-- [x] Ayrı repo olarak ilk commit atıldı (henüz GitHub'a push edilmedi)
+- [x] Ayrı repo olarak commit atıldı ve public repoya push edildi: https://github.com/asemaydin/claude-notify
 
 ### Notlar
 - Test sırasında Git Bash'te `echo` ile verilen JSON içindeki `\` ters eğik çizgileri bozuyor → geçersiz JSON. Elle test ederken yolları `C:/proje/...` şeklinde yaz.
