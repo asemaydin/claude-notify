@@ -1,0 +1,12 @@
+{
+  "name": "claude-notify",
+  "version": "1.0.0",
+  "description": "Claude Code bir işi bitirdiğinde veya seni beklediğinde Windows, macOS ve Linux'ta bildirim gönderir.",
+  "bin": {
+    "claude-notify": "bin/notify.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
